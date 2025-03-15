@@ -1,37 +1,42 @@
-# JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+# JupyterLite SeveTech Instance
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Welcome to SeveTech's  instance of JupyterLite! This README provides an overview of our JupyterLite setup, usage instructions, and plans for updates as we explore its features.
 
-## ✨ Try it in your browser ✨
+## Table of Contents
 
-➡️ **https://jupyterlite.github.io/demo**
+- [What is JupyterLite?](#what-is-jupyterlite)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Usage](#usage)
+- [Updating the Instance](#updating-the-instance)
+- [Contributing](#contributing)
+- [License](#license)
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+## What is JupyterLite?
 
-## Requirements
+JupyterLite is a Jupyter notebook distribution that runs entirely in the browser, powered by WebAssembly. It allows users to create and share documents that contain live code, equations, visualizations, and narrative text.
 
-JupyterLite is being tested against modern web browsers:
+## Getting Started
 
-- Firefox 90+
-- Chromium 89+
+To access our JupyterLite instance, simply navigate to the following URL:
 
-## Deploy your JupyterLite website on GitHub Pages
+[JupyterLite Instance URL](https://tessarinseve.pythonanywhere.com/jupyterlite)
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+### Prerequisites
 
-## Further Information and Updates
+- A modern web browser (Chrome, Vivaldi, Safari, or Edge)
+- No installation required; everything runs in the browser
 
-For more info, keep an eye on the JupyterLite documentation:
+## Features
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+- **Interactive Notebooks**: Create and run Jupyter notebooks directly in your browser.
+- **No Server Required**: JupyterLite runs entirely client-side, eliminating the need for a backend server.
+- **Rich Output**: Supports various output formats, including plots, tables, and interactive widgets.
+- **Markdown Support**: Write rich text using Markdown for documentation and explanations.
 
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
+## Usage
 
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
-
+1. Open the JupyterLite instance in your web browser.
+2. Create a new notebook by clicking on the "New" button.
+3. Start coding
