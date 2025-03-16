@@ -9,7 +9,7 @@ JupyterLite is a Jupyter notebook environment that runs entirely in the browser.
 ## Getting Started
 
 1. **Open JupyterLite**: 
-   - Access the JupyterLite instance running on our website by [clicking this link](https://tessarinseve.pyhonanywhere.com/nws/JupyterLite.wiki.html). This will take you to the interactive environment.
+   - Access the JupyterLite instance running on our website by [clicking this link](https://tessarinseve.pythonanywhere.com/nws/JupyterLite.wiki.html). This will take you to the interactive environment.
 
 2. **Create a New Notebook**:
    - Once you are in JupyterLite, click on the "New" button and select "Python Pyodide" from the dropdown menu. This will create a new notebook with the Python kernel.
@@ -38,7 +38,7 @@ JupyterLite is a Jupyter notebook environment that runs entirely in the browser.
 Pyodide comes with several popular Python libraries pre-installed. You can import them just like you would in a regular Python environment.
 
 **Example: Importing NumPy:**
-    In a new cell, type the following code to import NumPy and create an array:
+    - In a new cell, type the following code to import NumPy and create an array:
     ```
     import numpy as np
 
