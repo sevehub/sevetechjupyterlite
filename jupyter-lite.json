@@ -3,6 +3,7 @@
     "jupyter-config-data": {
     "appName": "SeveTech JupyterLite",
     "disabledExtensions": [
+        "jupyterlab-tour",
         "jupyterlab-kernel-spy"
       ]
     }
