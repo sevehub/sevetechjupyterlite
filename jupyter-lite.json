@@ -3,6 +3,7 @@
     "jupyter-config-data": {
     "appName": "SeveTech JupyterLite",
     "disabledExtensions": [
+        "@jupyterlab/drawio-extension",
         "jupyterlab-tour",
         "jupyterlab-kernel-spy"
       ]
