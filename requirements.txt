@@ -47,3 +47,4 @@ bqplot
 # drawio embedded 
 # jupyterlab-drawio
 jupytext
+jupyterlab-open-url-parameter
