@@ -26,6 +26,8 @@ jupyterlab-geojson>=3.4.0,<4
 # jupyterlab-tour
 # JupyterLab: dark theme
 jupyterlab-night
+# tailwind theme
+jupyterlab-tailwind-theme
 # JupyterLab: Miami nights theme (optional)
 # jupyterlab_miami_nights
 
@@ -46,5 +48,8 @@ bqplot
 
 # drawio embedded 
 # jupyterlab-drawio
-jupytext
+
+## extra extensions
+# jupytext # not working
 jupyterlab-open-url-parameter
+jupyterlab_gist_it
