@@ -51,4 +51,3 @@ bqplot
 # jupytext # not working
 jupyterlab-open-url-parameter
 jupyterlab_gist_it
-jupyterlab_trust_html
