@@ -38,7 +38,9 @@ ipympl>=0.8.2
 # Python: ipycanvas library for Jupyter notebooks (optional)
 ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
-ipyleaflet
+# ipyleaflet (unable to build)
+# Requested ipyleaflet from https://files.pythonhosted.org/packages/82/b7/3ce64ae93845af8bda5d3413e5569054731dfa4cc54514ae12b0e1f20309/ipyleaflet-0.10.3-py2.py3-none-any.whl (from -r requirements.txt (line 41)) has invalid metadata: Expected matching RIGHT_PARENTHESIS for LEFT_PARENTHESIS, after version specifier
+
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
