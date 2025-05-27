@@ -11,13 +11,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+  
+    container:
+      image: python:3.12-alpine  # Use the Alpine image with Python 3.12
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
       - name: Install the dependencies
         run: |
           python -m pip install -r requirements.txt
