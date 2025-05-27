@@ -56,4 +56,4 @@ jupyterlab_gist_it
 
 # pygwalker
 # jupyter_anywidget_graphviz
-streamlit_jupyter
+# streamlit_jupyter
