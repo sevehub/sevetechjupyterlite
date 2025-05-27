@@ -51,3 +51,7 @@ bqplot
 # jupytext # not working
 jupyterlab-open-url-parameter
 jupyterlab_gist_it
+
+# pygwalker
+# jupyter_anywidget_graphviz
+streamlit_jupyter
