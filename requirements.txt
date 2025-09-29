@@ -55,6 +55,8 @@ bqplot
 jupyterlab-open-url-parameter
 jupyterlab_gist_it
 
+## Add sympy
+sympy
 # pygwalker
 # jupyter_anywidget_graphviz
 # streamlit_jupyter
