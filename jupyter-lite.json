@@ -9,7 +9,11 @@
         "jupyterlab-tour",
         "jupyterlab-kernel-spy"
       ]
-    }
+    },
+    "extensions": [
+            "./packages/js-mathjs-extension"
+        ]
+    
 }
   
 
