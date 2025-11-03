@@ -54,6 +54,8 @@ bqplot
 # jupytext # not working
 jupyterlab-open-url-parameter
 jupyterlab_gist_it
+jupyterlab-deck
+
 
 ## Add Sympy 
 sympy
