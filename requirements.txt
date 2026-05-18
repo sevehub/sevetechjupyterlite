@@ -57,8 +57,9 @@ jupyterlab_gist_it
 jupyterlab-deck
 
 
-## Add Sympy 
+## Add Sympy / itables
 sympy
+itables
 # pygwalker
 # jupyter_anywidget_graphviz
 # streamlit_jupyter
