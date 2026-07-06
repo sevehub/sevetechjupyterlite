@@ -51,7 +51,6 @@ bqplot
 # jupyterlab-drawio
 
 ## extra extensions
-# jupytext # not working
 jupyterlab-open-url-parameter
 jupyterlab_gist_it
 jupyterlab-deck
@@ -59,7 +58,8 @@ jupyterlab-deck
 
 ## Add Sympy / itables
 sympy
-itables
 # pygwalker
 # jupyter_anywidget_graphviz
 # streamlit_jupyter
+## Mpl -> Typst
+mpl_typst
