@@ -62,4 +62,4 @@ sympy
 # jupyter_anywidget_graphviz
 # streamlit_jupyter
 ## Mpl -> Typst
-mpl_typst
+mpl2typ
